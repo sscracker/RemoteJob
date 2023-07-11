@@ -1,0 +1,11 @@
+
+This app help you to find remote job quickly
+Stack:
+1) room
+2) retrofit
+3) navigation component
+4) mvvm
+5) swipe refresh
+6) coroutines
+7) paging
+8) glide
