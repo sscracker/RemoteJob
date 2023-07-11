@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RemoteJob</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search...</string>
+    <string name="no_jobs_saved">No Jobs Saved</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_type">Job type</string>
+    <string name="job_location">Job location</string>
+    <string name="today">Today</string>
+    <string name="company_name">Company Name</string>
+</resources>
